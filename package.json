@@ -1,0 +1,11 @@
+{
+  "name": "loon-breaker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "vincent.007.cn@gmail.com",
+  "license": "Apache-2.0"
+}
